@@ -1,2 +1,2 @@
 # chippy
-☆
+[chipp.png] 
