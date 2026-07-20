@@ -35,4 +35,16 @@
   <img src="fe4554749b69b110ce581a37dd2cc41a.jpg" alt="Header" width="1000">
 </p>
 <details>
-  <summary><ins> my luvoomfs/luvlys ‹𝟹 </ins></summary>
+  <summary><ins> ✧˖ my luvoomfs/luvlys </ins></summary>
+   <p align=center> 
+  <img src="luvlies!!" width="900">
+</p>
+ <p align=center> 
+  <img src="my chudling" width="900">
+</p>
+ <p align=center> 
+  <img src="luvs" width="900">
+</p>
+ <p align=center> 
+  <img src="luvly gift" width="900">
+</p>
