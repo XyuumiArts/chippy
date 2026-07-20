@@ -1,9 +1,36 @@
+<img src="Untitled442_20260505043843.png" alt="Header" width="1000">
 <p align="center">
-  <img src="Untitled442_20260505043843.png" width="900">
-</p>
-<p align="center">
+  <p align=center>  ────────────────────────── .✦
+   <details>
+   <summary><ins>✦︎ "That Orange Cat" ✦︎</ins></summary>
+      <div align="center"> 
+        <p> ✧ ponytown; LOVELOVE cuddles, kiss n compliments !! 
+        <p> ✧ might be dry sometimes, i dont mean it :‹
+        <p> ✧ would love new luvoomfs, but im too socially anxious... I latch onto luvoomfs easily, w2i pref. ‹𝟹
+        <p> ✧ can get socially inept n boring, i do things before thinking so umm im actively working on that ok... plz take me slow
+          </div>
+</details>
+<br>
+   <p align=center> 
   <img src="chipp.png" width="900">
 </p>
-<p align="center">
+<details>
+  <summary><ins> Xyumilovesu!!‹𝟹 </ins></summary>
+
+  <div align="center">
+    <p> ✧ Digi Artist, either mouse on ms paint & thumb artist in ibispaint phone
+    <p> ✧ fndom int: resi evil (primary), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
+    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
+    <p> ✧ comf kin: chippy and null (ocs), orcas (mammal,dolphins)
+       </div>
+</details>
+
+<br>
+<p align="center">  
   <img src="skins.png" width="900">
+</p>
+<p align="center"> ✧ dont copy & take hvy inspo of my skins/ocs oke? dont let me catch u lacking
+  <p align="center"> 
+<p align="center">
+  <img src="fe4554749b69b110ce581a37dd2cc41a.jpg" alt="Header" width="1000">
 </p>
