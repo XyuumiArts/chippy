@@ -32,7 +32,7 @@
   <img src="skins.png" width="900">
 </p>
 <p align="center">
-  <img src="fe4554749b69b110ce581a37dd2cc41a.jpg" alt="Header" width="1000">
+  <img src="luvly" alt="Header" width="1000">
 </p>
 <details>
   <summary><ins> ✧˖ my luvoomfs/luvlys </ins></summary>
