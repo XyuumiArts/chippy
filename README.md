@@ -1,5 +1,6 @@
 <img src="Untitled442_20260505043843.png" alt="Header" width="1000">
 <p align="center">
+  <p align="center"> [art by me]
   <p align=center>  ────────────────────────── .✦
    <details>
    <summary><ins>✦︎ "That Orange Cat" ✦︎</ins></summary>
@@ -14,6 +15,7 @@
    <p align=center> 
   <img src="chipp.png" width="900">
 </p>
+ <p align=center>  ────────────────────────── .✦
 <details>
   <summary><ins> Xyumilovesu!!‹𝟹 </ins></summary>
 
