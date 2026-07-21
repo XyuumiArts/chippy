@@ -35,7 +35,7 @@
 <p align="center">  
   <img src="skins.png" width="900">
 </p>
-
+ <p align=center>  ────────────────────────── .✦
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
 
