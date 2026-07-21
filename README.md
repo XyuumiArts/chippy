@@ -31,9 +31,10 @@
 <p align="center">  
   <img src="skins.png" width="900">
 </p>
-<p align="center">
-  <img src="luvly" alt="Header" width="1000">
-</p>
+
+<div align="center">
+<img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
+
 <details>
   <summary><ins> ✧˖ my luvoomfs/luvlys </ins></summary>
    <p align=center> 
