@@ -35,14 +35,11 @@
 
 <details>
  <summary><ins> SKINS ★  </ins></summary>
-   <p align=center> 
-  <img src="luvlies!!" width="900">
+  <p align=center> 
+  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%231.gif" width="800">
 </p>
  <p align=center> 
-  <img src="my chudling" width="900">
-</p>
- <p align=center> 
-  <img src="luvs" width="900">
+  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%232.gif" width="600">
 </p>
  <p align=center> 
   <img src="luvly gift" width="900">
