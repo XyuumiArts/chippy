@@ -7,6 +7,7 @@
        <div align="center">
     <p> ✧ I rlly like warm tints of orange.. too much.
     <p> ✧ 26/8/2009. 
+    <p> ✧ can get socially inept or quiet, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
     <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
     <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
     <p> ✧ comf kin: chippy and null (ocs) uu theyre so dear to me
@@ -25,9 +26,8 @@
       <div align="center"> 
         <p> ✧ ponytown; LOVELOVELOVE cuddles [even offtb, afk], kiss n compliments !! i dont bite....
         <p> ✧ W2I preferrably!! I get distracted in pub chats & I dont wanna miss a thing from u
-        <p> ✧ might be dry sometimes, i dont mean it :‹ 
+        <p> ✧ might be dry sometimes, i dont mean it :‹ my social battery hits the rock bottom im gen fr 
         <p> ✧ would love new luvoomfs & I do latch onto luvoomfs easily,, tho im "a man of few words" 
-        <p> ✧ can get socially inept n boring, i do things before thinking so umm im actively working on that ok... plz take me slow
         <p> ✧ no hvy inspo/copy of skins... dont let me catch u on the streets son
           </div>
 </details>
