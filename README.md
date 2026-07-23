@@ -1,6 +1,5 @@
-<img src="Untitled442_20260505043843.png" alt="Header" width="1000">
-<p align="center">
-  <p align="center"> [art by me]
+<div align="center">
+<img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/1e4c3038f01844a1566e02973587c912.gif" alt="Header" width="1000">
   <p align=center>  ────────────────・・・ ✦ ・・・────────────────
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
