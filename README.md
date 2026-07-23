@@ -15,7 +15,7 @@
 </details>
 <br>
    <p align=center> 
-  <img src="chipp.png" width="900">
+  <img src="498b02bb7b4213760b1085f97e694383.jpg" width="1000">
 </p>
  <p align=center> ────────────────・・・ ✦ ・・・────────────────
 <details>
@@ -29,8 +29,7 @@
           </div>
 </details>
 <br>
-<div align="center">
-<img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
+  <img src="welcome-sign-leon.webp" width="1000">
  <p align=center> ────────────────・・・ ✦ ・・・────────────────
 
 <p align="center">
