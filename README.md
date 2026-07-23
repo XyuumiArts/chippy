@@ -1,7 +1,7 @@
 <img src="Untitled442_20260505043843.png" alt="Header" width="1000">
 <p align="center">
   <p align="center"> [art by me]
-  <p align=center>  ────────────────────────── .✦
+  <p align=center>  ────────────────・・・ ✦ ・・・────────────────
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
@@ -18,7 +18,7 @@
    <p align=center> 
   <img src="chipp.png" width="900">
 </p>
- <p align=center>  ────────────────────────── .✦
+ <p align=center> ────────────────・・・ ✦ ・・・────────────────
 <details>
   <summary><ins> 「 ✦ ABOUT PT ✦ 」 </ins></summary>
       <div align="center"> 
@@ -31,7 +31,7 @@
 <br>
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
- <p align=center> ・・・・・・・・・・
+ <p align=center> ────────────────・・・ ✦ ・・・────────────────
 
 <details>
  <summary><ins> ・SKINS・ </ins></summary>
@@ -46,8 +46,6 @@
  <p align=center> 
   <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%233.gif" width="400">
 </div>
- <p align=center>  ・・・・・
-   
 <details>
   <summary><ins> LUVLIES ♡ </ins></summary>
  <p align=center> 
