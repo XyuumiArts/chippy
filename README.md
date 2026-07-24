@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/1e4c3038f01844a1566e02973587c912.gif" alt="Header" width="890">
-  <p align=center>  ────────────────・・・ ✦ ・・・────────────────
+  <p align=center>  ───────────・・・ ✦ ・・・───────────
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
@@ -20,7 +20,7 @@
    <p align=center> 
   <img src="498b02bb7b4213760b1085f97e694383.jpg" width="890">
 </p>
- <p align=center> ────────────────・・・ ✦ ・・・────────────────
+ <p align=center> ───────────・・・ ✦ ・・・───────────
 <details>
   <summary><ins> 「 ✦ ABOUT PT ✦ 」 </ins></summary>
       <div align="center"> 
@@ -33,7 +33,7 @@
 </details>
 <br>
   <img src="welcome-sign-leon.webp" width="890">
- <p align=center> ────────────────・・・ ✦ ・・・────────────────
+ <p align=center> ───────────・・・ ✦ ・・・───────────
 
 <p align="center">
  everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
