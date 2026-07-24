@@ -1,5 +1,5 @@
 <p align=center> 
-  <img src="5c329bbd18adf3299f55d20dc09eeb06.jpg" width="850" height="110">
+  <img src="5796349d48f079898c3749788154addc.jpg" width="1000" height="20">
 
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/1e4c3038f01844a1566e02973587c912.gif" alt="Header" width="890">
@@ -42,4 +42,4 @@
 <p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="600">
 
 <p align=center> 
-  <img src="5c329bbd18adf3299f55d20dc09eeb06.jpg" width="850" height="110">
+  <img src="5796349d48f079898c3749788154addc.jpg" width="1000" height="20">
